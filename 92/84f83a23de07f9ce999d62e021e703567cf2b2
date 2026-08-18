@@ -1,0 +1,16 @@
+src/commands/checkpoint_agent/presets/zcode.rs
+  h_04c00a69eeb820 48-98,112-113,165,185,192,363-447
+src/streams/model_extraction.rs
+  h_04c00a69eeb820 76-79,93-94,103-109,111,1331-1343
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.24",
+  "base_commit_sha": "9284f83a23de07f9ce999d62e021e703567cf2b2",
+  "prompts": {},
+  "humans": {
+    "h_04c00a69eeb820": {
+      "author": "antik-x <jianyong.me@gmail.com>"
+    }
+  }
+}
