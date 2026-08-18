@@ -1,0 +1,14 @@
+src/streams/model_extraction.rs
+  h_04c00a69eeb820 57-67,77-81,85-128,136-143,151-155,157,166-173,176,1365,1367-1368,1376-1389
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.24",
+  "base_commit_sha": "443321bb85d4735649002b216c0dc011d4654a92",
+  "prompts": {},
+  "humans": {
+    "h_04c00a69eeb820": {
+      "author": "antik-x <jianyong.me@gmail.com>"
+    }
+  }
+}
