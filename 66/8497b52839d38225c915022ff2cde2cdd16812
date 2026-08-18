@@ -1,0 +1,14 @@
+src/mdm/agents/zcode.rs
+  h_04c00a69eeb820 25-27,44-54,56,120-140,552-628
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "development:1.6.24",
+  "base_commit_sha": "668497b52839d38225c915022ff2cde2cdd16812",
+  "prompts": {},
+  "humans": {
+    "h_04c00a69eeb820": {
+      "author": "antik-x <jianyong.me@gmail.com>"
+    }
+  }
+}
